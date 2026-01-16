@@ -1,3 +1,11 @@
+"""
+AsemblerDone v1.0.0
+Created by zuteroggit (Zuterog)
+Project for the revival of Assembly programming.
+License: gnu gpl v3
+(c) 2026 Zuteroggit Lab
+"""
+
 import tkinter as tk
 from tkinter import scrolledtext, filedialog, messagebox, ttk
 import os
